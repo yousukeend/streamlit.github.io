@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 
-st.title('Streamlit 入門')
+st.title('Streamlit 入門してみた')
 
 st.write('バー表示')
 'Start!!'
